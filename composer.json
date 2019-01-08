@@ -1,0 +1,21 @@
+{
+    "name": "valentininua/detecttimezonebynumber",
+    "license": "MIT",
+    "type": "library",
+    "description": "detect Timezone By Number",
+    "authors": [
+        {
+            "name": "Valentin Badiul"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        },
+    },
+    "require": {
+        "php": ">=7.1.*",
+        "symfony/symfony": "3.4.*"
+    },
+    "minimum-stability": "stable"
+}

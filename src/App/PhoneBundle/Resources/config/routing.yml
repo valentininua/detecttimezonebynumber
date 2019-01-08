@@ -1,0 +1,3 @@
+phone_homepage:
+    path:     /phone
+    defaults: { _controller: PhoneBundle:Default:index }

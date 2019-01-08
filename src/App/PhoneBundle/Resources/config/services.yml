@@ -1,0 +1,4 @@
+services:
+    PhoneService:
+        class:   App\PhoneBundle\Service\PhoneService
+        arguments: ['@service_container']
