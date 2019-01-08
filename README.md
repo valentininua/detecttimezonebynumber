@@ -4,7 +4,9 @@
 ## Usage ##
 
 ```bash
-$ composer require valentininua/detecttimezonebynumber 1.0.0
+
+composer require valentininua/detecttimezonebynumber dev-master
+
 ```
 
 
