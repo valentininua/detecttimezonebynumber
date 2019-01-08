@@ -11,7 +11,7 @@
     "autoload": {
         "psr-4": {
             "PhoneBundle\\": "src/App/PhoneBundle"
-        },
+        }
     },
     "require": {
         "php": ">=7.1.*",
