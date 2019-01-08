@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "php": ">=7.1.0",
+        "php": ">=5.6.0",
         "symfony/symfony": "3.4.*"
     },
     "minimum-stability": "stable"
